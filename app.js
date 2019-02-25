@@ -377,4 +377,4 @@ client.on("message", message => {
 
   
 });
-client.login("NTQ4OTA5NjYwMDY1ODkwMzA0.D1MeGQ.af2e09QymEb7Aocgsb4LDSBWvX0");
+client.login("");

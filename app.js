@@ -23,9 +23,9 @@ client.on("message", message => {
 	function roomDescription(){
 		if(room == 0){
 			if(progress[0] == 2){
-				return('You are in room E, the AP CS room. "Decipher 051409071301 " is written on a whiteboard. Enigma is written next to it as an answer. ');
+				return('You are in room E, the AP CS room. "Decipher 05-14-09-07-13-01 " is written on a whiteboard. Enigma is written next to it as an answer. ');
 			}else{
-				return('You are in room E, the AP CS room. "Decipher 051409071301" is written on a whiteboard. ');
+				return('You are in room E, the AP CS room. "Decipher 05-14-09-07-13-01" is written on a whiteboard. ');
 			}
 		}else if (room == 1) {
 			if(progress[1] == 1) {
@@ -385,4 +385,4 @@ client.on("message", message => {
 
   
 });
-client.login("NTQ4OTA5NjYwMDY1ODkwMzA0.D1MeGQ.af2e09QymEb7Aocgsb4LDSBWvX0");
+client.login("NTQ4OTA5NjYwMDY1ODkwMzA0.D1ZlhQ.SPfumPCX-51_V48Cji86FkYpzto");
